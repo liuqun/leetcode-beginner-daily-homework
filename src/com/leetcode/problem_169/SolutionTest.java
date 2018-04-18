@@ -45,3 +45,4 @@ public class SolutionTest {
 	}
 
 }
+// vim: fileencoding=utf-8 tabstop=4 shiftwidth=4 noexpandtab

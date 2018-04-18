@@ -34,4 +34,4 @@ public class Solution {
 	}
 
 }
-//vim: fileencoding=utf-8 tabstop=4 shiftwidth=4
+// vim: fileencoding=utf-8 tabstop=4 shiftwidth=4 noexpandtab

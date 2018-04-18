@@ -56,4 +56,4 @@ bool Solution::containsDuplicateUsingGNUHashMap(vector<int>& nums) {
 }
 #endif // __GNUC__
 
-//vim: fileencoding=utf-8 tabstop=4 shiftwidth=4
+// vim: fileencoding=utf-8 tabstop=4 shiftwidth=4 noexpandtab
