@@ -19,7 +19,7 @@ package com.leetcode.problem_1;
 import java.util.HashMap;
 
 /**
- * Framwork class only used to solve LeetCode problem.
+ * Framework class only used to solve LeetCode problem.
  * URL http://leetcode.com/problems/two-sum/
  */
 public class Solution {
@@ -49,7 +49,7 @@ public class Solution {
 	}
 
 	/**
-	 * Wapper method of {@link #twoSum(int[], int)}, used to convert Integer[] nums into int[] nums.
+	 * Wrapper method of {@link #twoSum(int[], int)}, used to convert Integer[] nums into int[] nums.
 	 * @param nums Original Interger[] array that contents at least 2 elements,
 	 *             see {@link #twoSum(int[], int) twoSum(nums, target)}
 	 * @param target See {@link #twoSum(int[], int) twoSum(nums, target)}.
