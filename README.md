@@ -22,3 +22,7 @@ LeetCode中文题解（由作者 YHSPY 发布于 Web 云端/研修所）：
 121. 买卖股票的最佳时机
  - 高效解法1: [Java样例代码](src/com/leetcode/problem_121/Solution.java)
  - 低效解法2: [Java样例代码](src/com/leetcode/problem_121/README.md)
+349. 两个数组的交集: [题目链接](https://leetcode-cn.com/problems/intersection-of-two-arrays)
+ - 我的解法1: [链接](src/com/leetcode/problem_349/)
+350. 两个数组的交集 II: [题目链接](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
+ - 我的解法1: [链接](src/com/leetcode/problem_350/)
