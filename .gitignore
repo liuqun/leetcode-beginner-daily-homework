@@ -2,3 +2,9 @@
 .classpath
 .project
 bin
+*.class
+# Python(PyCharm IDE)
+.idea
+__pychche__
+.*_cache
+*.py[cod]
