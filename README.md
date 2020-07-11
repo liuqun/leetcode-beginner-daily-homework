@@ -17,6 +17,10 @@ LeetCode中文题解（由作者 YHSPY 发布于 Web 云端/研修所）：
 
 # ChangeLog
 
+## 2020年
+387. 字符串中的第一个唯一字符: [题目链接](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+ - 不使用HashMap的解法: [样例代码](./src/com/leetcode/problem_387_first_unique_character_in_a_string)
+
 ## 2018年
 
 121. 买卖股票的最佳时机
