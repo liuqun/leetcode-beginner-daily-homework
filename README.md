@@ -1,20 +1,3 @@
-# LeetCode 参考资料网址列表
-
-英文原题：
-- https://leetcode.com
-- https://leetcode.com/problemset/algorithms/
-
-LeetCode中文题解（由作者 YHSPY 发布于 Web 云端/研修所）：
-- https://www.yhspy.com/tags/LeetCode/
-
-# 目录
-*题目按从易到难排列*
-- [1. Two Sum](https://m.yhspy.com/blog/139)
-- [283. Move Zeros](https://m.yhspy.com/blog/140)
-- [217. Contains Duplicate](https://m.yhspy.com/blog/141)
-- [219. Contains Duplicate II](https://m.yhspy.com/blog/142)
-- [169. Majority Element](https://m.yhspy.com/blog/143)
-
 # ChangeLog
 
 ## 2020年
@@ -30,3 +13,12 @@ LeetCode中文题解（由作者 YHSPY 发布于 Web 云端/研修所）：
  - 我的解法1: [链接](src/com/leetcode/problem_349/)
 350. 两个数组的交集 II: [题目链接](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
  - 我的解法1: [链接](src/com/leetcode/problem_350/)
+
+# 附录：LeetCode 参考资料网址列表
+
+英文原题：
+- https://leetcode.com
+- https://leetcode.com/problemset/algorithms/
+
+LeetCode中文题解（由作者 YHSPY 发布于 Web 云端/研修所）：
+- https://www.yhspy.com/tags/LeetCode/
