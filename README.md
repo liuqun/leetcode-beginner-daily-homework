@@ -5,7 +5,7 @@
 - https://leetcode.com/problemset/algorithms/
 
 LeetCode中文题解（由作者 YHSPY 发布于 Web 云端/研修所）：
-- https://www.yhspy.com/leetcode
+- https://www.yhspy.com/tags/LeetCode/
 
 # 目录
 *题目按从易到难排列*
